@@ -259,6 +259,10 @@
         {
           "binding": "solarSensor4",
           "type": "number"
+        },
+        {
+          "binding": "enclosureTemp",
+          "type": "number"
         }
       ]
     },
